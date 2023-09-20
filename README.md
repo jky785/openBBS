@@ -1,2 +1,2 @@
-#openBBS
+# openBBS
 The board engine.
