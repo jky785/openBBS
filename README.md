@@ -1,3 +1,3 @@
-# open-bbs
+# openBBS
 Board engine
 
